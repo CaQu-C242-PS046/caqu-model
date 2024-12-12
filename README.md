@@ -23,3 +23,5 @@ uvicorn app:app --reload
 - Ensure that `requirements.txt` includes all necessary dependencies for the app to function correctly.
 - For cloud deployment, such as Google Cloud Run, make sure to use the exposed port 8080 in your service configuration.
 
+## Notebook:
+Notebook ML (https://colab.research.google.com/drive/11KkSuhrOEEKo63GSxFB9uH6dMusWiZVk?usp=sharing)
